@@ -13,7 +13,7 @@ O arquivo principal do projeto está organizado da seguinte maneira:
 
 - **1. Introdução:** explicação do objetivo do projeto e descrição da base de dados.
 
-- **2. Características do Dataset e Análise Exploratória:** explicação do conteúdo da base de dados e como é organizada, limpeza dos dados e análise das correlações entre as variáveis independentes.
+- **2. Limpeza e Análise Exploratória:** explicação do conteúdo da base de dados e como é organizada, limpeza dos dados e análise das correlações entre as variáveis independentes.
 
 - **3. Modelos de Predição:** desenvolvimento e implementeção dos modelos de regressão para previsão dos valores.
 
